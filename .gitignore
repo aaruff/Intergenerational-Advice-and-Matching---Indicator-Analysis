@@ -1,0 +1,8 @@
+ChatWithTypeAndEncoding/
+NoChat/
+SessionNum.csv
+SessionNum.xls
+.ipynb_checkpoints/
+*.p
+*.xls
+*.xlsx
